@@ -1,8 +1,8 @@
-# password generator
+# readme generator
   
   ## Description
   
- click button
+ This is suppose to help users generate a read me easier and faster
   
   ## Table of Contents (Optional)
   
@@ -14,26 +14,26 @@
   - [License](#license)
   
   ## Installation
- open browser and click
+ You need to install node then open it up in the terminal then you have to just answer the questions that appear in the terminal
   
   ## Usage
   
-click buttoin
+Just make sure to add node
   
   ## Contribute
-  vuttins
+  download node
 
   ## Testing
-  follow what the alert says
+  no just answer the questions
 
   ## License
-   APACHE
+   MIT
 
   ## Github
-  yasminnnn
+  yasmins
 
   ## Email
-  yasminsoyuigfg
+  yasmins0321@gmail.com
     
   
   
