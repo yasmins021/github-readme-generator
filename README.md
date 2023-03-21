@@ -5,3 +5,8 @@ The purpose of this project is to simplify the process of generating a README.md
 
 
 
+Here is the screen recording link https://www.loom.com/share/5d8803212720491c92c8e9a58dee5c76
+
+
+
+
